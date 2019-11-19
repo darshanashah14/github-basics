@@ -1,0 +1,9 @@
+.htaccess
+*.psd
+*.ai
+*.[oa]
+.DS_Store
+*.txt
+!README.txt
+*.log
+_fonts/
